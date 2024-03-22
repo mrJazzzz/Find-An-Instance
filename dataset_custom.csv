@@ -1,0 +1,10 @@
+Da li je zivotinja kicmenjak?,Da li je zivotinja aktivna danju ili nocu?,Da li je zivotinja mesojed ili biljojed?,
+Da,Danju,Mesojed,Lav
+Da,Danju,Mesojed,Zirafa
+Da,Nocu,Mesojed,Sova
+Da,Nocu,Biljojed,Jelen
+Ne,Danju,Mesojed,Bogomoljka
+Ne,Danju,Biljojed,Leptir
+Ne,Nocu,Mesojed,Pauk
+Ne,Nocu,Biljojed,Puz
+Da,Danju,Mesojed,Pera
