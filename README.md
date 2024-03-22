@@ -12,3 +12,5 @@ The given program is able to load database from .csv file (tested on databases w
 Those (*COMMANDS*) are options to write when the program asks: *What sould I do next?*
 
 Note: If user loads new database, he will be able to work with it, but **the previous database is going to be deleted**.
+
+Two examples of datasets are given with other files.
